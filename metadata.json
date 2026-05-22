@@ -1,0 +1,6 @@
+{
+  "name": "Slingshot Bird Hunting Game",
+  "description": "An optimized, modern HTML5 Canvas slingshot game with physics, visuals, particles, and dynamic difficulty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
